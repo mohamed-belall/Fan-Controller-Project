@@ -3,7 +3,8 @@
 ## purpose
 Design a temperature-based fan controller using the ***`ATmega32`*** microcontroller. The fan speed will be adjusted according to the temperature. Utilize the ATmega32 microcontroller operating at a frequency of 1MHz.
 
-![]()
+![image](https://github.com/mohamed-belall/Fan-Controller-Project/assets/77551534/c434ec25-aa75-4a92-af3f-d0fa7e7da2f6)
+
 
 ## Description
 
@@ -51,6 +52,3 @@ that:
 | MicroController Abstraction Layer (MCAL)     | GPIO / ADC / PWM       | 
 
 
-## 🔗 Personal Links
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/mostafa-mahmoud23/](https://www.linkedin.com/in/mohamed-belal-355316218/)https://www.linkedin.com/in/mohamed-belal-355316218/)
